@@ -1,6 +1,6 @@
 # Better xampp applet for Cinnamon panel
 Cinnamon panel applet with additional features.
-
+![Screenshot](https://cloud.githubusercontent.com/assets/6773202/5845440/a6e31000-a1c4-11e4-9610-6649e4fe0b50.jpg)
 ## Installation
 
 * Clone the repository and install the files into the cinnamon applet directory;
