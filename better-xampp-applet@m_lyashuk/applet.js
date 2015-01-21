@@ -6,8 +6,8 @@ const Util = imports.misc.util;
 const Lang = imports.lang; 
 const GLib = imports.gi.GLib;
 const Gio = imports.gi.Gio;
-const AppletMeta = imports.ui.appletManager.applets['better-xampp-panel@m_lyashuk'];
-const AppletDir = imports.ui.appletManager.appletMeta['better-xampp-panel@m_lyashuk'].path;
+const AppletMeta = imports.ui.appletManager.applets['better-xampp-applet@m_lyashuk'];
+const AppletDir = imports.ui.appletManager.appletMeta['better-xampp-applet@m_lyashuk'].path;
 
 //applet command constants
 var CommandConstants = new function() {

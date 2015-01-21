@@ -3,14 +3,12 @@
     font-size: 23px;
     text-align: center
 }
-
 .small {
     font-size: 15px;
     text-align: center
 }
-
 .smallItalics {
-    font-weight: italic;
+    font-weight: 300;
     font-size: 12px;
     text-align: center
 }
