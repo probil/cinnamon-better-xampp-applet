@@ -1,6 +1,6 @@
 # Better xampp applet for Cinnamon panel
 Xampp panel applet with additional features. Originally developed by backids99@gmail.com.
-![Screenshot](https://cloud.githubusercontent.com/assets/6773202/5845440/a6e31000-a1c4-11e4-9610-6649e4fe0b50.jpg)
+![2014-12-20 20 38 27-1](https://cloud.githubusercontent.com/assets/6773202/5892977/9d5deb48-a4dc-11e4-85fb-f26955ac3cbd.png)
 
 ## Installation
 
@@ -19,6 +19,10 @@ Xampp panel applet with additional features. Originally developed by backids99@g
 * Finally, enable the applet by going to Menu->Settings->Applets
 
 ## Changelog
+
+### Version 0.2-1
+* New SVG-icon. Applet now looks like other cinnamon applets.
+* Remove old icons
 
 ### Version 0.2
 * Added Xampp Control Panel item
