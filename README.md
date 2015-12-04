@@ -6,7 +6,7 @@ Xampp panel applet with additional features. Originally developed by backids99@g
 
 * Clone the repository and install the files into the cinnamon applet directory;
 <pre>
-    $ git clone git@github.com:probil/cinnamon-better-xampp-applet.git
+    $ git clone https://github.com/probil/cinnamon-better-xampp-applet.git --depth=1
     $ cp -r cinnamon-better-xampp-applet/better-xampp-applet@m_lyashuk ~/.local/share/cinnamon/applets
 </pre>
 * Alternatively, if you don't have GIT installed you can just download zip file
